@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+.rbodyp {
+	background-color: #efefef;
+}
+
+body , h1, .table, p{
+  font-family : 'Work Sans', sans-serif;
+  color: #262626;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.btn-outline-warning {
+	margin-left: 40px;
+}
+
+h1 {
+	color : #001a00;
+}
+
+p {
+	font-size: 16px;
+}
